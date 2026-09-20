@@ -104,7 +104,7 @@ fastrand = "2.4"
 float_next_after = "2"
 futures = "0.3"
 geo = "0.31.0"
-geo-index = { version = "0.3.4", features = ["use-geo_0_31"] }
+geo-index = { version = "0.4.0", features = ["use-geo_0_31"] }
 geo-traits = "0.3.0"
 geo-types = "0.7.17"
 geojson = "1.0.0"
